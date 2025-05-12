@@ -14,6 +14,8 @@
 </p>
 <x3d width='800px' height='800px'>
 <scene>
+<Viewpoint position="22.57081 0.84740 9.77502" orientation="0.39352 0.42174 0.81687 1.81446" 
+	 centerOfRotation="1.34588 -0.35339 -5.63930" fieldOfView="0.78540" description="defaultX3DViewpointNode"></Viewpoint>
 <inline url="https://raw.githubusercontent.com/AnaBerenjeno/Actividad-3D/refs/heads/main/Mummy_mask_3D.x3d"> </inline>
 </scene>
 </x3d>
